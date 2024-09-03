@@ -20,13 +20,13 @@
 	},
 	"formatter": {
 		"enabled": true,
-		"formatWithErrors": false,
+		"formatWithErrors": true,
 		"ignore": [],
 		"attributePosition": "auto",
 		"indentStyle": "tab",
 		"indentWidth": 2,
 		"lineEnding": "lf",
-		"lineWidth": 120
+		"lineWidth": 80
 	},
 	"javascript": {
 		"formatter": {
